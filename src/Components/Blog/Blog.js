@@ -21,6 +21,7 @@ const Blog = () => {
         <div>
             <div className="blog pt-20 pb-20">
                 <div className="md:w-8/12 mx-auto">
+                    <h2 className="text-2xl p-5 font-semibold dark:text-slate-300">This Blog is generated from .ipynb file</h2>
                     {cells.map((cell) => {
                         if (cell.cell_type === "code") {
                             return (
