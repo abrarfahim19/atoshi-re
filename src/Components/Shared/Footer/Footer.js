@@ -1,6 +1,7 @@
 import React from "react";
 
 const Footer = () => {
+    const linkAnim = "dark:text-white text-gray-700 transition dark:hover:text-gray-400 hover:text-gray-700/75" + "after:content-[''] after:block after:w-0 after:h-1 after:bg-gray-400 after:ease-in after:duration-300 hover:after:w-full"
     return (
         <footer className="bg-gray-100 dark:bg-gray-800">
             <div className="max-w-5xl px-4 py-10 mx-auto sm:px-5 lg:px-6">
@@ -21,7 +22,7 @@ const Footer = () => {
                     <ul className="flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12">
                         <li>
                             <a
-                                className="dark:text-white  text-gray-700 transition dark:hover:text-gray-400 hover:text-gray-700/75"
+                                className={ linkAnim }
                                 href="/"
                             >
                                 About
@@ -30,7 +31,7 @@ const Footer = () => {
 
                         <li>
                             <a
-                                className="dark:text-white text-gray-700 transition  dark:hover:text-gray-400 hover:text-gray-700/75"
+                                className={linkAnim}
                                 href="/"
                             >
                                 Careers
@@ -39,7 +40,7 @@ const Footer = () => {
 
                         <li>
                             <a
-                                className="dark:text-white text-gray-700 transition dark:hover:text-gray-400 hover:text-gray-700/75"
+                                className={linkAnim}
                                 href="/"
                             >
                                 History
@@ -48,7 +49,7 @@ const Footer = () => {
 
                         <li>
                             <a
-                                className="dark:text-white text-gray-700 transition dark:hover:text-gray-400 hover:text-gray-700/75"
+                                className={linkAnim}
                                 href="/"
                             >
                                 Services
@@ -57,7 +58,7 @@ const Footer = () => {
 
                         <li>
                             <a
-                                className="dark:text-white text-gray-700 transition dark:hover:text-gray-400 hover:text-gray-700/75"
+                                className={linkAnim}
                                 href="/"
                             >
                                 Projects
@@ -66,7 +67,7 @@ const Footer = () => {
 
                         <li>
                             <a
-                                className="dark:text-white text-gray-700 transition dark:hover:text-gray-400 hover:text-gray-700/75"
+                                className={linkAnim}
                                 href="/"
                             >
                                 Blog
