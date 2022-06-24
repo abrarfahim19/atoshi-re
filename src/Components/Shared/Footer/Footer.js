@@ -2,8 +2,15 @@ import React from "react";
 
 const Footer = () => {
     const linkAnim = "dark:text-white text-gray-700 transition dark:hover:text-gray-400 hover:text-gray-700/75" + "after:content-[''] after:block after:w-0 after:h-1 after:bg-gray-400 after:ease-in after:duration-300 hover:after:w-full"
+
+    const iconAnim = "border-solid border-2 border-sky-500 rounded-full p-2 " + "z-30 relative after:absolute after:rounded-full after:w-full after:h-full after:scale-100 after:bg-sky-500 after:top-1/2 after:left-1/2 after:transform after:-translate-x-1/2 after:-translate-y-1/2 after:-z-30 after:duration-300 after:ease-in-out hover:after:scale-0"
+    // top: -2px;
+    // left: -2px;
+    // padding: 2px;
+    // z-index: -1;
+    // background: gray;
     return (
-        <footer className="bg-gray-100 dark:bg-gray-800">
+        <footer className="bg-gray-100  dark:bg-gray-800">
             <div className="max-w-5xl px-4 py-10 mx-auto sm:px-5 lg:px-6">
                 <div className="flex justify-center text-slate-800 dark:text-slate-300">
                     <img
@@ -77,14 +84,14 @@ const Footer = () => {
                 </nav>
 
                 <ul className="flex justify-center gap-6 mt-6 md:gap-8">
-                    <li>
+                    <li className={iconAnim}>
                         <a
                             href="/"
                             rel="noopener noreferrer"
                             target="_blank"
                             className="dark:text-white text-gray-700 transition dark:hover:text-gray-400 hover:text-gray-700/75"
                         >
-                            <span className="sr-only">Facebook</span>
+                            {/* <span className="sr-only">Facebook</span> */}
                             <svg
                                 className="w-6 h-6"
                                 fill="currentColor"
@@ -100,7 +107,7 @@ const Footer = () => {
                         </a>
                     </li>
 
-                    <li>
+                    <li className={iconAnim}>
                         <a
                             href="/"
                             rel="noopener noreferrer"
@@ -123,7 +130,7 @@ const Footer = () => {
                         </a>
                     </li>
 
-                    <li>
+                    <li className={iconAnim}>
                         <a
                             href="/"
                             rel="noopener noreferrer"
@@ -142,7 +149,7 @@ const Footer = () => {
                         </a>
                     </li>
 
-                    <li>
+                    <li className={iconAnim}>
                         <a
                             href="/"
                             rel="noopener noreferrer"
@@ -165,7 +172,7 @@ const Footer = () => {
                         </a>
                     </li>
 
-                    <li>
+                    <li className={iconAnim}>
                         <a
                             href="/"
                             rel="noopener noreferrer"
