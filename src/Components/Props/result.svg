@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="animated" version="1.1" viewBox="0 0 750 500" xmlns="http://www.w3.org/2000/svg">
+<style>svg#freepik_stories-pitch-meeting:not(.animated) .animable {opacity: 0;}svg#freepik_stories-pitch-meeting.animated #freepik--background-simple--inject-79 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}svg#freepik_stories-pitch-meeting.animated #freepik--Plant--inject-79 {animation: 3s Infinite  linear wind;animation-delay: 0s;}svg#freepik_stories-pitch-meeting.animated #freepik--Sheets--inject-79 {animation: 3s Infinite  linear wind;animation-delay: 0s;}            @keyframes floating {                0% {                    opacity: 1;                    transform: translateY(0px);                }                50% {                    transform: translateY(-10px);                }                100% {                    opacity: 1;                    transform: translateY(0px);                }            }                    @keyframes wind {                0% {                    transform: rotate( 0deg );                }                25% {                    transform: rotate( 1deg );                }                75% {                    transform: rotate( -1deg );                }            }</style>
+<g class="animable" style="transform-origin:373.506px 234.82px">
+<path class="animable" d="m570.49 70.87c-151-49-227-13-275 33s-64 76-119 82-106 16-132 83 7 120 57 153l0.55 0.35 522.7-9.46c40.38-9.83 80.71-20.85 86.75-114.89 0 0 10-178-141-227z" fill="#ff725e" style="transform-origin:373.506px 234.82px"/>
+<path class="animable" d="m570.49 70.87c-151-49-227-13-275 33s-64 76-119 82-106 16-132 83 7 120 57 153l0.55 0.35 522.7-9.46c40.38-9.83 80.71-20.85 86.75-114.89 0 0 10-178-141-227z" fill="#fff" opacity=".7" style="transform-origin:373.506px 234.82px"/>
+</g>
+<g class="animable" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:389.205px 444.51px">
+<line class="animable" x1="633.56" x2="706.85" y1="444.51" y2="444.51" style="transform-origin:670.205px 444.51px"/>
+<line class="animable" x1="71.56" x2="115.64" y1="444.51" y2="444.51" style="transform-origin:93.6px 444.51px"/>
+</g>
+<g class="animable" style="transform-origin:404.07px 227.95px">
+<rect class="animable" x="188.41" y="222.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:213.58px 232.87px"/>
+<rect class="animable" x="362.39" y="166.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:387.56px 176.87px"/>
+<rect class="animable" x="518.39" y="166.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:543.56px 176.87px"/>
+<rect class="animable" x="608.39" y="204.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:633.56px 214.87px"/>
+<rect class="animable" x="334.82" y="194.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:359.99px 205.03px"/>
+<rect class="animable" x="247.46" y="166.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:272.63px 176.87px"/>
+<rect class="animable" x="219.89" y="194.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:245.06px 205.03px"/>
+<rect class="animable" x="277.43" y="194.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:302.6px 205.03px"/>
+<rect class="animable" x="129.8" y="241.49" width="50.34" height="20.38" opacity=".2" style="transform-origin:154.97px 251.68px"/>
+<rect class="animable" x="104.97" y="194.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:130.14px 205.03px"/>
+<rect class="animable" x="162.51" y="194.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:187.68px 205.03px"/>
+<rect class="animable" x="362.39" y="51.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:387.56px 61.87px"/>
+<rect class="animable" x="334.82" y="79.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:359.99px 90.03px"/>
+<rect class="animable" x="615.39" y="51.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:640.56px 61.87px"/>
+<rect class="animable" x="587.82" y="79.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:612.99px 90.03px"/>
+<rect class="animable" x="261.46" y="51.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:286.63px 61.87px"/>
+<rect class="animable" x="277.43" y="136.49" width="50.34" height="20.38" opacity=".1" style="transform-origin:302.6px 146.68px"/>
+<rect class="animable" x="420.8" y="270.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:445.97px 280.87px"/>
+<rect class="animable" x="420.8" y="325.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:445.97px 335.87px"/>
+<rect class="animable" x="188.41" y="326.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:213.58px 336.87px"/>
+<rect class="animable" x="507.27" y="298.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:532.44px 309.03px"/>
+<rect class="animable" x="479.8" y="325.49" width="50.34" height="20.38" opacity=".1" style="transform-origin:504.97px 335.68px"/>
+<rect class="animable" x="652.83" y="298.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:678px 309.03px"/>
+<rect class="animable" x="625.35" y="325.49" width="50.34" height="20.38" opacity=".1" style="transform-origin:650.52px 335.68px"/>
+<rect class="animable" x="362.39" y="270.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:387.56px 280.87px"/>
+<rect class="animable" x="392.35" y="298.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:417.52px 309.03px"/>
+<rect class="animable" x="368.35" y="356.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:393.52px 367.03px"/>
+<rect class="animable" x="440.35" y="383.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:465.52px 394.03px"/>
+<rect class="animable" x="250.35" y="383.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:275.52px 394.03px"/>
+<rect class="animable" x="106.8" y="383.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:131.97px 394.03px"/>
+<rect class="animable" x="289.82" y="229.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:314.99px 240.03px"/>
+<rect class="animable" x="347.35" y="229.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:372.52px 240.03px"/>
+<rect class="animable" x="507.35" y="229.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:532.52px 240.03px"/>
+<rect class="animable" x="247.46" y="270.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:272.63px 280.87px"/>
+<rect class="animable" x="302.89" y="328.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:328.06px 339.03px"/>
+<rect class="animable" x="132.54" y="270.68" width="50.34" height="20.38" opacity=".2" style="transform-origin:157.71px 280.87px"/>
+<rect class="animable" x="129.8" y="345.49" width="50.34" height="20.38" opacity=".2" style="transform-origin:154.97px 355.68px"/>
+<rect class="animable" x="104.97" y="298.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:130.14px 309.03px"/>
+<rect class="animable" x="162.51" y="298.84" width="50.34" height="20.38" opacity=".1" style="transform-origin:187.68px 309.03px"/>
+</g>
+<g class="animable" stroke="#263238" stroke-miterlimit="10" style="transform-origin:686.715px 339.889px">
+<line class="animable" x1="667.34" x2="681.52" y1="273.77" y2="409.73" fill="none" stroke-width="2px" style="transform-origin:674.43px 341.75px"/>
+<line class="animable" x1="679.24" x2="672.81" y1="383.71" y2="376.92" fill="none" stroke-width="2px" style="transform-origin:676.025px 380.315px"/>
+<path class="animable" d="m674.76 379a7.29 7.29 0 0 0-2.56-5.45c-1.65-1.48-10.34-5.13-11.17-2.07-0.89 3.28 7.97 9.81 13.73 7.52z" fill="#ff725e" style="transform-origin:667.864px 374.885px"/>
+<line class="animable" x1="674.76" x2="666.49" y1="378.95" y2="373.8" fill="none" stroke-width=".5px" style="transform-origin:670.625px 376.375px"/>
+<line class="animable" x1="680.85" x2="674.42" y1="399.17" y2="392.38" fill="none" stroke-width="2px" style="transform-origin:677.635px 395.775px"/>
+<path class="animable" d="m676.37 394.42a7.26 7.26 0 0 0-2.56-5.46c-1.65-1.47-10.34-5.13-11.16-2.07-0.9 3.33 7.99 9.87 13.72 7.53z" fill="#ff725e" style="transform-origin:669.478px 390.31px"/>
+<line class="animable" x1="676.37" x2="668.1" y1="394.42" y2="389.26" fill="none" stroke-width=".5px" style="transform-origin:672.235px 391.84px"/>
+<line class="animable" x1="675.3" x2="668.87" y1="345.98" y2="339.18" fill="none" stroke-width="2px" style="transform-origin:672.085px 342.58px"/>
+<path class="animable" d="m670.82 341.22a7.26 7.26 0 0 0-2.56-5.46c-1.65-1.47-10.34-5.13-11.16-2.07-0.9 3.31 7.99 9.87 13.72 7.53z" fill="#ff725e" style="transform-origin:663.928px 337.109px"/>
+<line class="animable" x1="670.82" x2="662.55" y1="341.22" y2="336.06" fill="none" stroke-width=".5px" style="transform-origin:666.685px 338.64px"/>
+<line class="animable" x1="676.91" x2="670.48" y1="361.44" y2="354.65" fill="none" stroke-width="2px" style="transform-origin:673.695px 358.045px"/>
+<path class="animable" d="m672.44 356.68a7.29 7.29 0 0 0-2.56-5.45c-1.66-1.48-10.35-5.13-11.17-2.07-0.9 3.33 8 9.84 13.73 7.52z" fill="#ff725e" style="transform-origin:665.543px 352.571px"/>
+<line class="animable" x1="672.44" x2="664.16" y1="356.68" y2="351.53" fill="none" stroke-width=".5px" style="transform-origin:668.3px 354.105px"/>
+<line class="animable" x1="672.68" x2="666.25" y1="320.86" y2="314.07" fill="none" stroke-width="2px" style="transform-origin:669.465px 317.465px"/>
+<path class="animable" d="m668.2 316.1a7.32 7.32 0 0 0-2.56-5.46c-1.65-1.47-10.34-5.13-11.17-2.07-0.89 3.33 8 9.87 13.73 7.53z" fill="#ff725e" style="transform-origin:661.304px 311.99px"/>
+<line class="animable" x1="668.2" x2="659.93" y1="316.1" y2="310.95" fill="none" stroke-width=".5px" style="transform-origin:664.065px 313.525px"/>
+<line class="animable" x1="670.05" x2="663.61" y1="295.63" y2="288.84" fill="none" stroke-width="2px" style="transform-origin:666.83px 292.235px"/>
+<path class="animable" d="m665.57 290.87a7.29 7.29 0 0 0-2.56-5.45c-1.65-1.48-10.34-5.13-11.17-2.07-0.9 3.33 8 9.86 13.73 7.52z" fill="#ff725e" style="transform-origin:658.673px 286.764px"/>
+<line class="animable" x1="665.57" x2="657.29" y1="290.87" y2="285.72" fill="none" stroke-width=".5px" style="transform-origin:661.43px 288.295px"/>
+<line class="animable" x1="678.16" x2="683.05" y1="374.56" y2="366.59" fill="none" stroke-width="2px" style="transform-origin:680.605px 370.575px"/>
+<path class="animable" d="m681.56 369a7.31 7.31 0 0 1 1.37-5.87c1.32-1.78 9.06-7.15 10.5-4.33 1.57 3.06-5.79 11.29-11.87 10.2z" fill="#ff725e" style="transform-origin:687.533px 363.548px"/>
+<line class="animable" x1="681.56" x2="689" y1="368.98" y2="361.86" fill="none" stroke-width=".5px" style="transform-origin:685.28px 365.42px"/>
+<line class="animable" x1="673.91" x2="678.8" y1="333.87" y2="325.89" fill="none" stroke-width="2px" style="transform-origin:676.355px 329.88px"/>
+<path class="animable" d="m677.31 328.29a7.29 7.29 0 0 1 1.38-5.87c1.31-1.78 9.06-7.15 10.5-4.33 1.56 3.07-5.79 11.31-11.88 10.2z" fill="#ff725e" style="transform-origin:683.287px 322.839px"/>
+<line class="animable" x1="677.31" x2="684.76" y1="328.29" y2="321.17" fill="none" stroke-width=".5px" style="transform-origin:681.035px 324.73px"/>
+<line class="animable" x1="672.04" x2="676.93" y1="315.99" y2="308.01" fill="none" stroke-width="2px" style="transform-origin:674.485px 312px"/>
+<path class="animable" d="m675.44 310.41a7.29 7.29 0 0 1 1.38-5.87c1.31-1.78 9.06-7.15 10.5-4.33 1.56 3.07-5.79 11.3-11.88 10.2z" fill="#ff725e" style="transform-origin:681.417px 304.959px"/>
+<line class="animable" x1="675.44" x2="682.89" y1="310.41" y2="303.29" fill="none" stroke-width=".5px" style="transform-origin:679.165px 306.85px"/>
+<line class="animable" x1="669.31" x2="674.2" y1="289.77" y2="281.8" fill="none" stroke-width="2px" style="transform-origin:671.755px 285.785px"/>
+<path class="animable" d="m672.71 284.19a7.29 7.29 0 0 1 1.38-5.87c1.31-1.78 9-7.15 10.49-4.33 1.57 3.08-5.78 11.31-11.87 10.2z" fill="#ff725e" style="transform-origin:678.683px 278.739px"/>
+<line class="animable" x1="672.71" x2="680.16" y1="284.19" y2="277.07" fill="none" stroke-width=".5px" style="transform-origin:676.435px 280.63px"/>
+<path class="animable" d="m667.22 273a7.31 7.31 0 0 1 1.37-5.87c1.32-1.78 9.06-7.15 10.5-4.33 1.57 3.09-5.79 11.32-11.87 10.2z" fill="#ff725e" style="transform-origin:673.192px 267.55px"/>
+<line class="animable" x1="667.22" x2="674.67" y1="273.01" y2="265.89" fill="none" stroke-width=".5px" style="transform-origin:670.945px 269.45px"/>
+<path class="animable" d="m667.65 273.32a7.29 7.29 0 0 1-5.69-2c-1.64-1.49-6.17-9.76-3.21-10.89 3.25-1.23 10.64 6.95 8.9 12.89z" fill="#ff725e" style="transform-origin:662.841px 266.827px"/>
+<line class="animable" x1="667.65" x2="661.35" y1="273.32" y2="265.16" fill="none" stroke-width=".5px" style="transform-origin:664.5px 269.24px"/>
+<line class="animable" x1="704.76" x2="690.65" y1="292.49" y2="428.46" fill="none" stroke-width="2px" style="transform-origin:697.705px 360.475px"/>
+<line class="animable" x1="693.77" x2="688.87" y1="402.53" y2="394.56" fill="none" stroke-width="2px" style="transform-origin:691.32px 398.545px"/>
+<path class="animable" d="m690.37 397a7.27 7.27 0 0 0-1.38-5.86c-1.32-1.79-9.07-7.15-10.5-4.33-1.57 3.02 5.79 11.25 11.88 10.19z" fill="#ff725e" style="transform-origin:684.392px 391.55px"/>
+<line class="animable" x1="690.37" x2="683.33" y1="396.95" y2="390.2" fill="none" stroke-width=".5px" style="transform-origin:686.85px 393.575px"/>
+<line class="animable" x1="697.69" x2="692.79" y1="364.8" y2="356.82" fill="none" stroke-width="2px" style="transform-origin:695.24px 360.81px"/>
+<path class="animable" d="m694.28 359.22a7.29 7.29 0 0 0-1.38-5.87c-1.31-1.78-9.06-7.15-10.5-4.32-1.56 3.07 5.8 11.3 11.88 10.19z" fill="#ff725e" style="transform-origin:688.303px 353.772px"/>
+<line class="animable" x1="694.28" x2="687.25" y1="359.22" y2="352.47" fill="none" stroke-width=".5px" style="transform-origin:690.765px 355.845px"/>
+<line class="animable" x1="696.08" x2="691.19" y1="380.26" y2="372.29" fill="none" stroke-width="2px" style="transform-origin:693.635px 376.275px"/>
+<path class="animable" d="m692.68 374.68a7.29 7.29 0 0 0-1.38-5.87c-1.31-1.78-9.07-7.14-10.5-4.32-1.57 3.07 5.79 11.3 11.88 10.19z" fill="#ff725e" style="transform-origin:686.702px 369.234px"/>
+<line class="animable" x1="692.68" x2="685.65" y1="374.68" y2="367.93" fill="none" stroke-width=".5px" style="transform-origin:689.165px 371.305px"/>
+<line class="animable" x1="700.29" x2="695.4" y1="339.68" y2="331.7" fill="none" stroke-width="2px" style="transform-origin:697.845px 335.69px"/>
+<path class="animable" d="m696.89 334.1a7.29 7.29 0 0 0-1.38-5.87c-1.31-1.78-9.06-7.15-10.5-4.32-1.56 3.09 5.79 11.3 11.88 10.19z" fill="#ff725e" style="transform-origin:690.913px 328.652px"/>
+<line class="animable" x1="696.89" x2="689.86" y1="334.1" y2="327.35" fill="none" stroke-width=".5px" style="transform-origin:693.375px 330.725px"/>
+<line class="animable" x1="702.91" x2="698.01" y1="314.45" y2="306.47" fill="none" stroke-width="2px" style="transform-origin:700.46px 310.46px"/>
+<path class="animable" d="m699.51 308.87a7.29 7.29 0 0 0-1.38-5.87c-1.32-1.78-9.07-7.15-10.5-4.32-1.57 3.07 5.79 11.32 11.88 10.19z" fill="#ff725e" style="transform-origin:693.532px 303.424px"/>
+<line class="animable" x1="699.51" x2="692.47" y1="308.87" y2="302.12" fill="none" stroke-width=".5px" style="transform-origin:695.99px 305.495px"/>
+<line class="animable" x1="694.6" x2="701.03" y1="393.36" y2="386.56" fill="none" stroke-width="2px" style="transform-origin:697.815px 389.96px"/>
+<path class="animable" d="m699.07 388.59a7.29 7.29 0 0 1 2.56-5.45c1.65-1.48 10.34-5.14 11.16-2.08 0.9 3.33-7.99 9.87-13.72 7.53z" fill="#ff725e" style="transform-origin:705.962px 384.48px"/>
+<line class="animable" x1="699.07" x2="707.83" y1="388.59" y2="383.16" fill="none" stroke-width=".5px" style="transform-origin:703.45px 385.875px"/>
+<line class="animable" x1="698.82" x2="705.25" y1="352.66" y2="345.86" fill="none" stroke-width="2px" style="transform-origin:702.035px 349.26px"/>
+<path class="animable" d="m703.29 347.9a7.31 7.31 0 0 1 2.56-5.46c1.65-1.47 10.34-5.13 11.17-2.07 0.89 3.32-8.02 9.87-13.73 7.53z" fill="#ff725e" style="transform-origin:710.186px 343.789px"/>
+<line class="animable" x1="703.29" x2="712.05" y1="347.9" y2="342.47" fill="none" stroke-width=".5px" style="transform-origin:707.67px 345.185px"/>
+<line class="animable" x1="700.67" x2="707.1" y1="334.78" y2="327.98" fill="none" stroke-width="2px" style="transform-origin:703.885px 331.38px"/>
+<path class="animable" d="m705.15 330a7.26 7.26 0 0 1 2.56-5.46c1.65-1.48 10.34-5.14 11.16-2.08 0.9 3.35-7.99 9.89-13.72 7.54z" fill="#ff725e" style="transform-origin:712.042px 325.887px"/>
+<line class="animable" x1="705.15" x2="713.91" y1="330.02" y2="324.58" fill="none" stroke-width=".5px" style="transform-origin:709.53px 327.3px"/>
+<line class="animable" x1="703.4" x2="709.82" y1="308.56" y2="301.76" fill="none" stroke-width="2px" style="transform-origin:706.61px 305.16px"/>
+<path class="animable" d="m707.87 303.8a7.26 7.26 0 0 1 2.56-5.46c1.65-1.47 10.34-5.14 11.16-2.08 0.9 3.33-7.99 9.88-13.72 7.54z" fill="#ff725e" style="transform-origin:714.762px 299.685px"/>
+<line class="animable" x1="707.87" x2="716.63" y1="303.8" y2="298.37" fill="none" stroke-width=".5px" style="transform-origin:712.25px 301.085px"/>
+<path class="animable" d="m704.8 291.73a7.26 7.26 0 0 1 2.56-5.46c1.65-1.48 10.33-5.14 11.16-2.08 0.9 3.33-7.99 9.87-13.72 7.54z" fill="#ff725e" style="transform-origin:711.692px 287.613px"/>
+<line class="animable" x1="704.8" x2="713.55" y1="291.73" y2="286.29" fill="none" stroke-width=".5px" style="transform-origin:709.175px 289.01px"/>
+<path class="animable" d="m705.16 292.12a7.28 7.28 0 0 1-5.16-3.12c-1.3-1.79-4-10.82-0.9-11.32 3.41-0.54 8.98 8.98 6.06 14.44z" fill="#ff725e" style="transform-origin:701.823px 284.889px"/>
+<line class="animable" x1="705.16" x2="700.67" y1="292.12" y2="282.84" fill="none" stroke-width=".5px" style="transform-origin:702.915px 287.48px"/>
+<line class="animable" x1="688.59" x2="688.59" y1="237.12" y2="409.07" fill="none" stroke-width="2px" style="transform-origin:688.59px 323.095px"/>
+<line class="animable" x1="688.73" x2="683.04" y1="383.22" y2="375.79" fill="none" stroke-width="2px" style="transform-origin:685.885px 379.505px"/>
+<path class="animable" d="m684.77 378a7.3 7.3 0 0 0-2-5.69c-1.49-1.64-9.75-6.18-10.89-3.22-1.22 3.24 6.95 10.66 12.89 8.91z" fill="#ff725e" style="transform-origin:678.278px 373.187px"/>
+<line class="animable" x1="684.77" x2="677.08" y1="378.02" y2="372.03" fill="none" stroke-width=".5px" style="transform-origin:680.925px 375.025px"/>
+<line class="animable" x1="688.73" x2="683.04" y1="350.9" y2="343.48" fill="none" stroke-width="2px" style="transform-origin:685.885px 347.19px"/>
+<path class="animable" d="m684.77 345.7a7.3 7.3 0 0 0-2-5.69c-1.49-1.64-9.75-6.17-10.89-3.22-1.22 3.21 6.95 10.65 12.89 8.91z" fill="#ff725e" style="transform-origin:678.278px 340.888px"/>
+<line class="animable" x1="684.77" x2="677.08" y1="345.7" y2="339.72" fill="none" stroke-width=".5px" style="transform-origin:680.925px 342.71px"/>
+<line class="animable" x1="688.73" x2="683.04" y1="312.96" y2="305.54" fill="none" stroke-width="2px" style="transform-origin:685.885px 309.25px"/>
+<path class="animable" d="m684.77 307.77a7.33 7.33 0 0 0-2-5.7c-1.49-1.63-9.75-6.17-10.89-3.21-1.22 3.21 6.95 10.64 12.89 8.91z" fill="#ff725e" style="transform-origin:678.278px 302.954px"/>
+<line class="animable" x1="684.77" x2="677.08" y1="307.77" y2="301.78" fill="none" stroke-width=".5px" style="transform-origin:680.925px 304.775px"/>
+<line class="animable" x1="688.73" x2="683.04" y1="287.71" y2="280.28" fill="none" stroke-width="2px" style="transform-origin:685.885px 283.995px"/>
+<path class="animable" d="m684.77 282.51a7.3 7.3 0 0 0-2-5.69c-1.49-1.64-9.75-6.18-10.89-3.22-1.22 3.22 6.95 10.64 12.89 8.91z" fill="#ff725e" style="transform-origin:678.278px 277.694px"/>
+<line class="animable" x1="684.77" x2="677.08" y1="282.51" y2="276.53" fill="none" stroke-width=".5px" style="transform-origin:680.925px 279.52px"/>
+<line class="animable" x1="688.73" x2="683.04" y1="262.34" y2="254.92" fill="none" stroke-width="2px" style="transform-origin:685.885px 258.63px"/>
+<path class="animable" d="m684.77 257.15a7.33 7.33 0 0 0-2-5.7c-1.49-1.63-9.75-6.17-10.89-3.21-1.22 3.21 6.95 10.64 12.89 8.91z" fill="#ff725e" style="transform-origin:678.278px 252.334px"/>
+<line class="animable" x1="684.77" x2="677.08" y1="257.15" y2="251.16" fill="none" stroke-width=".5px" style="transform-origin:680.925px 254.155px"/>
+<line class="animable" x1="688.6" x2="694.3" y1="393.08" y2="385.66" fill="none" stroke-width="2px" style="transform-origin:691.45px 389.37px"/>
+<path class="animable" d="m692.56 387.89a7.33 7.33 0 0 1 2-5.7c1.49-1.64 9.76-6.17 10.89-3.21 1.22 3.21-6.95 10.64-12.89 8.91z" fill="#ff725e" style="transform-origin:699.052px 383.074px"/>
+<line class="animable" x1="692.56" x2="700.71" y1="387.89" y2="381.58" fill="none" stroke-width=".5px" style="transform-origin:696.635px 384.735px"/>
+<line class="animable" x1="688.6" x2="694.3" y1="341.69" y2="334.27" fill="none" stroke-width="2px" style="transform-origin:691.45px 337.98px"/>
+<path class="animable" d="m692.56 336.49a7.3 7.3 0 0 1 2-5.69c1.49-1.64 9.76-6.18 10.89-3.22 1.22 3.22-6.95 10.65-12.89 8.91z" fill="#ff725e" style="transform-origin:699.052px 331.676px"/>
+<line class="animable" x1="692.56" x2="700.71" y1="336.49" y2="330.18" fill="none" stroke-width=".5px" style="transform-origin:696.635px 333.335px"/>
+<line class="animable" x1="688.6" x2="694.3" y1="316.33" y2="308.9" fill="none" stroke-width="2px" style="transform-origin:691.45px 312.615px"/>
+<path class="animable" d="m692.56 311.13a7.33 7.33 0 0 1 2-5.7c1.49-1.63 9.76-6.17 10.89-3.21 1.22 3.21-6.95 10.64-12.89 8.91z" fill="#ff725e" style="transform-origin:699.052px 306.314px"/>
+<line class="animable" x1="692.56" x2="700.71" y1="311.13" y2="304.82" fill="none" stroke-width=".5px" style="transform-origin:696.635px 307.975px"/>
+<line class="animable" x1="688.6" x2="694.3" y1="282.8" y2="275.37" fill="none" stroke-width="2px" style="transform-origin:691.45px 279.085px"/>
+<path class="animable" d="m692.56 277.6a7.3 7.3 0 0 1 2-5.69c1.49-1.64 9.76-6.18 10.89-3.22 1.22 3.22-6.95 10.64-12.89 8.91z" fill="#ff725e" style="transform-origin:699.052px 272.784px"/>
+<line class="animable" x1="692.56" x2="700.71" y1="277.6" y2="271.29" fill="none" stroke-width=".5px" style="transform-origin:696.635px 274.445px"/>
+<line class="animable" x1="688.6" x2="694.3" y1="256.44" y2="249.02" fill="none" stroke-width="2px" style="transform-origin:691.45px 252.73px"/>
+<path class="animable" d="m692.56 251.24a7.3 7.3 0 0 1 2-5.69c1.49-1.64 9.76-6.18 10.89-3.22 1.22 3.22-6.95 10.67-12.89 8.91z" fill="#ff725e" style="transform-origin:699.052px 246.428px"/>
+<line class="animable" x1="692.56" x2="700.71" y1="251.24" y2="244.93" fill="none" stroke-width=".5px" style="transform-origin:696.635px 248.085px"/>
+<path class="animable" d="m688.26 239.55a7.3 7.3 0 0 1 2-5.69c1.49-1.64 9.75-6.18 10.89-3.22 1.22 3.22-6.95 10.65-12.89 8.91z" fill="#ff725e" style="transform-origin:694.752px 234.736px"/>
+<line class="animable" x1="688.26" x2="696.41" y1="239.55" y2="233.24" fill="none" stroke-width=".5px" style="transform-origin:692.335px 236.395px"/>
+<path class="animable" d="m688.66 239.9a7.28 7.28 0 0 1-5.45-2.56c-1.48-1.66-5.12-10.35-2.06-11.17 3.33-0.89 9.85 8.01 7.51 13.73z" fill="#ff725e" style="transform-origin:684.558px 233.004px"/>
+<line class="animable" x1="688.66" x2="683.24" y1="239.9" y2="231.14" fill="none" stroke-width=".5px" style="transform-origin:685.95px 235.52px"/>
+<polygon class="animable" points="695.66 453.67 677.46 453.67 675.18 407.68 697.94 407.68" fill="#263238" style="transform-origin:686.56px 430.675px"/>
+</g>
+<g class="animable" style="transform-origin:368.89px 56.3925px">
+<circle class="animable" cx="124.43" cy="79.38" r="7.45" fill="#fff" stroke="#263238" stroke-miterlimit="10" style="transform-origin:124.43px 79.38px;transform:rotate(-20.38deg)"/>
+<polygon class="animable" points="157.64 80.88 90.64 80.88 114.09 52.88 134.19 52.88" fill="#263238" style="transform-origin:124.14px 66.88px"/>
+<rect class="animable" x="119.72" y="47.47" width="8.84" height="8.84" fill="#263238" style="transform-origin:124.14px 51.89px"/>
+<line class="animable" x1="124.5" x2="124.5" y1="49.13" y2="23.55" fill="none" stroke="#263238" stroke-miterlimit="10" style="transform-origin:124.5px 36.34px"/>
+<circle class="animable" cx="613.93" cy="79.38" r="7.45" fill="#fff" stroke="#263238" stroke-miterlimit="10" style="transform-origin:613.93px 79.38px;transform:rotate(-24.29deg)"/>
+<polygon class="animable" points="647.14 80.88 580.14 80.88 603.59 52.88 623.69 52.88" fill="#263238" style="transform-origin:613.64px 66.88px"/>
+<rect class="animable" x="609.22" y="47.47" width="8.84" height="8.84" fill="#263238" style="transform-origin:613.64px 51.89px"/>
+<line class="animable" x1="614" x2="614" y1="49.13" y2="23.55" fill="none" stroke="#263238" stroke-miterlimit="10" style="transform-origin:614px 36.34px"/>
+</g>
+<g class="animable" style="transform-origin:344.07px 181.065px">
+<rect class="animable" x="216.72" y="103.1" width="254.7" height="155.93" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:344.07px 181.065px"/>
+<rect class="animable" x="225.19" y="110.1" width="237.75" height="141.94" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:344.065px 181.07px"/>
+<rect class="animable" x="326.92" y="199.25" width="14.45" height="16.46" fill="#263238" style="transform-origin:334.145px 207.48px"/>
+<rect class="animable" x="247.46" y="188.42" width="14.45" height="27.29" fill="#263238" style="transform-origin:254.685px 202.065px"/>
+<rect class="animable" x="267.32" y="177.16" width="14.45" height="38.55" fill="#ff725e" style="transform-origin:274.545px 196.435px"/>
+<rect class="animable" x="287.19" y="164.6" width="14.45" height="51.12" fill="#263238" style="transform-origin:294.415px 190.16px"/>
+<rect class="animable" x="307.05" y="194.49" width="14.45" height="21.23" fill="#ff725e" style="transform-origin:314.275px 205.105px"/>
+<rect class="animable" x="346.78" y="169.36" width="14.45" height="46.35" fill="#ff725e" style="transform-origin:354.005px 192.535px"/>
+<rect class="animable" x="366.64" y="161.13" width="14.45" height="54.58" fill="#263238" style="transform-origin:373.865px 188.42px"/>
+<rect class="animable" x="386.51" y="153.77" width="14.45" height="61.95" fill="#ff725e" style="transform-origin:393.735px 184.745px"/>
+<rect class="animable" x="406.37" y="176.29" width="14.45" height="39.42" fill="#263238" style="transform-origin:413.595px 196px"/>
+<rect class="animable" x="426.24" y="188.42" width="14.45" height="27.29" fill="#ff725e" style="transform-origin:433.465px 202.065px"/>
+<line class="animable" x1="309.4" x2="378.74" y1="131.6" y2="131.6" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:344.07px 131.6px"/>
+<line class="animable" x1="247.48" x2="261.12" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:254.3px 224.8px"/>
+<line class="animable" x1="267.42" x2="281.06" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:274.24px 224.8px"/>
+<line class="animable" x1="287.37" x2="301.01" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:294.19px 224.8px"/>
+<line class="animable" x1="307.31" x2="320.95" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:314.13px 224.8px"/>
+<line class="animable" x1="327.25" x2="340.89" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:334.07px 224.8px"/>
+<line class="animable" x1="347.2" x2="360.84" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:354.02px 224.8px"/>
+<line class="animable" x1="367.14" x2="380.78" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:373.96px 224.8px"/>
+<line class="animable" x1="387.09" x2="400.73" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:393.91px 224.8px"/>
+<line class="animable" x1="407.03" x2="420.67" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:413.85px 224.8px"/>
+<line class="animable" x1="426.97" x2="440.61" y1="224.8" y2="224.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:433.79px 224.8px"/>
+<line class="animable" x1="238.39" x2="454.91" y1="215.71" y2="215.71" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:346.65px 215.71px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="210.03" y2="210.03" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 210.03px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="204.13" y2="204.13" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 204.13px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="198.24" y2="198.24" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 198.24px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="192.34" y2="192.34" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 192.34px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="186.45" y2="186.45" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 186.45px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="180.55" y2="180.55" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 180.55px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="174.66" y2="174.66" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 174.66px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="168.76" y2="168.76" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 168.76px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="162.87" y2="162.87" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 162.87px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="156.98" y2="156.98" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 156.98px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="151.08" y2="151.08" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 151.08px"/>
+<line class="animable" x1="238.39" x2="242.93" y1="145.19" y2="145.19" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:240.66px 145.19px"/>
+<path class="animable" d="m300.41 146.41h-10.36a1.72 1.72 0 0 0-1.72 1.73v7.13a1.73 1.73 0 0 0 1.72 1.73h3l2 4.16 2-4.13h3.37a1.74 1.74 0 0 0 1.73-1.73v-7.13a1.73 1.73 0 0 0-1.74-1.76z" fill="#c7c7c7" style="transform-origin:295.24px 153.785px"/>
+<path class="animable" d="m279.54 160.11h-10.36a1.72 1.72 0 0 0-1.72 1.72v7.17a1.72 1.72 0 0 0 1.72 1.72h3l2 4.17 2-4.13h3.38a1.72 1.72 0 0 0 1.72-1.72v-7.14a1.72 1.72 0 0 0-1.74-1.79z" fill="#c7c7c7" style="transform-origin:274.371px 167.5px"/>
+<path class="animable" d="m259.54 169h-10.36a1.73 1.73 0 0 0-1.73 1.73v7.13a1.74 1.74 0 0 0 1.73 1.73h3l2 4.17 2-4.14h3.38a1.73 1.73 0 0 0 1.72-1.73v-7.13a1.72 1.72 0 0 0-1.74-1.76z" fill="#c7c7c7" style="transform-origin:254.365px 176.38px"/>
+<path class="animable" d="m319.76 177.72h-10.35a1.72 1.72 0 0 0-1.73 1.72v7.14a1.72 1.72 0 0 0 1.73 1.72h3l2 4.17 2-4.13h3.37a1.73 1.73 0 0 0 1.73-1.72v-7.14a1.73 1.73 0 0 0-1.75-1.76z" fill="#c7c7c7" style="transform-origin:314.595px 185.095px"/>
+<path class="animable" d="m339.76 181.41h-10.35a1.73 1.73 0 0 0-1.73 1.73v7.13a1.72 1.72 0 0 0 1.73 1.73h3l2 4.17 2-4.13h3.37a1.72 1.72 0 0 0 1.73-1.73v-7.13a1.73 1.73 0 0 0-1.75-1.77z" fill="#c7c7c7" style="transform-origin:334.595px 188.79px"/>
+<path class="animable" d="m359.77 152.5h-10.36a1.73 1.73 0 0 0-1.73 1.72v7.14a1.73 1.73 0 0 0 1.73 1.72h3l2 4.17 1.95-4.13h3.38a1.72 1.72 0 0 0 1.72-1.72v-7.14a1.72 1.72 0 0 0-1.69-1.76z" fill="#c7c7c7" style="transform-origin:354.57px 159.875px"/>
+<path class="animable" d="m379.33 143.58h-10.33a1.74 1.74 0 0 0-1.73 1.73v7.13a1.73 1.73 0 0 0 1.73 1.73h3l2 4.17 2-4.13h3.37a1.72 1.72 0 0 0 1.73-1.73v-7.13a1.73 1.73 0 0 0-1.77-1.77z" fill="#c7c7c7" style="transform-origin:374.185px 150.96px"/>
+<path class="animable" d="m399.12 136.63h-10.36a1.72 1.72 0 0 0-1.72 1.72v7.14a1.72 1.72 0 0 0 1.72 1.72h3l2 4.17 2-4.13h3.37a1.73 1.73 0 0 0 1.73-1.72v-7.14a1.73 1.73 0 0 0-1.74-1.76z" fill="#c7c7c7" style="transform-origin:393.95px 144.005px"/>
+<path class="animable" d="m418.47 159.24h-10.36a1.72 1.72 0 0 0-1.72 1.72v7.14a1.72 1.72 0 0 0 1.72 1.72h3l2 4.17 2-4.13h3.37a1.73 1.73 0 0 0 1.73-1.72v-7.14a1.73 1.73 0 0 0-1.74-1.76z" fill="#c7c7c7" style="transform-origin:413.3px 166.615px"/>
+<path class="animable" d="m439.12 171h-10.35a1.73 1.73 0 0 0-1.77 1.7v7.14a1.73 1.73 0 0 0 1.73 1.72h3l2 4.17 2-4.13h3.37a1.72 1.72 0 0 0 1.73-1.72v-7.18a1.72 1.72 0 0 0-1.71-1.7z" fill="#c7c7c7" style="transform-origin:433.915px 178.365px"/>
+</g>
+<g class="animable" style="transform-origin:446.568px 262.335px">
+<path class="animable" d="M374.36,218l-5.1-6.08s-1.95-5.83-3.41-7.77-5.1-2.19-9.47-4.86-6.08-2.43-5.35.73,5.83,6.56,5.83,6.56-9.71-.24-10.44-.49-7.29-2.18-8.75-3.16-4.37,0-2.92,3.16,6.08,10,9.48,12.4,2.67,2.91,9.23,3.88,8.26.73,8.26.73l3.89,3.65Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:354.358px 212.102px"/>
+<path class="animable" d="m342.53 216.76s-4.13-14.09-1.7-12.14 7.29 10.2 7.29 10.2 11.42-1.7 14.58 1.7" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:351.382px 210.597px"/>
+<polygon class="animable" points="381.16 223.32 372.42 216.52 363.43 226.97 373.14 233.29" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:372.295px 224.905px"/>
+<path class="animable" d="M430.61,285.09l-1.74,11s-6,17.25-5.75,20.5,7.37,99,7.37,99h78.72s-3.12-102.52-3.37-105-2.46-20.44-2.46-20.44-45.78.2-47.27-.05-26.24-7-26.24-7Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:466.161px 349.345px"/>
+<line class="animable" x1="452.11" x2="469.85" y1="332.07" y2="337.07" fill="none" stroke="#696969" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:460.98px 334.57px"/>
+<line class="animable" x1="463.1" x2="466.16" y1="335.57" y2="413.04" fill="none" stroke="#696969" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:464.63px 374.305px"/>
+<path class="animable" d="m467.85 301.58c18.4-0.67 26.52-1.55 35.95-8.05l-0.42-3.39s-45.78 0.2-47.27-0.05-26.24-7-26.24-7l0.74 2-1.26 8c5.89 2.72 21.52 9.11 38.5 8.49z" fill="#878787" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:466.575px 292.356px"/>
+<polygon class="animable" points="458.6 297.33 458.6 300.83 467.85 301.58 468.39 297.43" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:463.495px 299.455px"/>
+<path class="animable" d="M457.94,181.53S423.68,191,422.71,192s-5.59,28.67-5.59,28.67l-9,14.34-25.75-13.61s-5.11,2.43-6.32,3.89-8,9-5.83,11.42,33,24.3,37.66,27.21,6.56,3.65,8.75,1.22,12.88-17.25,12.88-17.25L429,279.21s-3.16,1.22-2.43,4.13a12.14,12.14,0,0,0,2.19,4.62h2.91s11.91,10.45,36.69,9.47,33.05-4.86,35-7.29,2.19-2.42,1.7-4.37a38.26,38.26,0,0,1-.73-4.62l6.81-42.52L530.6,252s18.71,2.91,21.86.73,4.13-3.65,1.71-8-22.6-28.19-22.6-28.19-7.78-19.19-9-20.89-33.29-14.1-33.29-14.1Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:462.659px 239.512px"/>
+<path class="animable" d="m408.13 235s3.35 4.4 3.59 8.11" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:409.925px 239.055px"/>
+<polyline class="animable" points="429.52 247.87 429.52 217.74 427.57 207.77" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:428.545px 227.82px"/>
+<line class="animable" x1="424.62" x2="423.2" y1="210.62" y2="207.29" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:423.91px 208.955px"/>
+<line class="animable" x1="429.52" x2="426.11" y1="222.11" y2="214.12" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:427.815px 218.115px"/>
+<line class="animable" x1="511.16" x2="517.23" y1="238.63" y2="209.72" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:514.195px 224.175px"/>
+<path class="animable" d="m519.17 218.26c-2.25 3.4-4.63 7.32-5.34 9.68" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:516.5px 223.1px"/>
+<path class="animable" d="m523.79 211.66s-1 1.38-2.42 3.38" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:522.58px 213.35px"/>
+<path class="animable" d="m522.33 227.21s5.11-6.8 11.42-6.8" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:528.04px 223.81px"/>
+<path class="animable" d="m489.72 275.93c5.4-7.29 13.16-17.95 15.61-22.23" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:497.525px 264.815px"/>
+<path class="animable" d="m484.19 283.34s1.23-1.63 3.11-4.15" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:485.745px 281.265px"/>
+<line class="animable" x1="502.41" x2="493.66" y1="269.98" y2="283.34" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:498.035px 276.66px"/>
+<path class="animable" d="M465,174s-2.91.24-3.64,1-6.08,6.81-6.08,6.81.73,22.35,2,21.62,10.69-9.48,11.66-10.45S483,204.13,483.7,204.62s1.22,2.67,1.94.48,8-21.38,7.29-23.32-5.34-7.78-5.34-7.78S469.85,177.64,465,174Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:474.129px 190.029px"/>
+<path class="animable" d="M459.65,126.86s-6.57,9-6.08,10.94-1,5.34-1,5.34-8.75,6.8-7.78,8.75a20.39,20.39,0,0,0,3.65,4.37s-.24,17,1.94,17,10.94.49,10.94.49,7.29,26.72,9.72,25.27,16.28-23.09,16.28-23.09l2.67-10.2s10-4.38,12.88-18.71-5.11-22.84-10.21-26.49-15.55-4.13-15.55-4.13,3.89-2.43,0-4.13-9.23.73-9.23.73-.25-6.32-5.83-2.91S449.68,120.06,459.65,126.86Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:474.097px 154.079px"/>
+<path class="animable" d="M492.69,120.54c-5.1-3.64-15.55-4.13-15.55-4.13s3.89-2.43,0-4.13-9.23.73-9.23.73-.25-6.32-5.83-2.91-12.4,10-2.43,16.76c0,0,20.16,1.7,14.82,5.1s-7.78,3.65-4.13,6.08,6.8,7.77,6.8,7.77-2.67,5.35-1.46,6.32,2.67,1.22,3.65-.24,3.88-6.56,8-5.35,3.64,6.56.48,10a16.26,16.26,0,0,1-7.53,4.37s5.83,3.4,7.77,4.13a9.24,9.24,0,0,0,3.16.07c2.74-1.68,9.38-6.79,11.67-18.05C505.81,132.69,497.79,124.19,492.69,120.54Z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:479.036px 137.152px"/>
+<path class="animable" d="m452.36 159.42s4.61-0.24 6.8-2.67c0 0-0.49 4.86-2.19 5.1s-4.61-2.43-4.61-2.43z" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:455.76px 159.308px"/>
+<path class="animable" d="m459.4 143.75c0 1-0.43 1.82-1 1.82s-1-0.81-1-1.82 0.43-1.82 1-1.82 1 0.81 1 1.82z" fill="#263238" style="transform-origin:458.4px 143.75px"/>
+<path class="animable" d="M456,140.23s3.89-2.43,5.83.72" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:458.915px 140.143px"/>
+<polygon class="animable" points="461.35 173.76 469.61 173.51 474.47 168.41 464.99 184.69" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:467.91px 176.55px"/>
+<path class="animable" d="M509,235.47l-7.53-3.88a14.13,14.13,0,0,0-3.89-3.65c-1.94-1-3.64,0-9.48-1.7s-8-1.46-7,1.22,7,2.91,7,2.91l2.43,1.46L474.22,235l-8.3,3.59a1,1,0,0,0-.58,1h0a1,1,0,0,0,1.1.82l7.3-1.07,8.37-.6-13.5,6.17a1.46,1.46,0,0,0-.75,1.56h0a1.46,1.46,0,0,0,1.87,1.15L483,244.5l-8.6,6.65a1.31,1.31,0,0,0-.48,1.61h0a1.3,1.3,0,0,0,1.71.67l8.43-3.64-4.14,5.38a.81.81,0,0,0,0,1h0a.82.82,0,0,0,1.1.16c1.91-1.35,7.63-5.36,8.24-5.56s6.56-2.67,7.53-2.91,4.62-1.46,4.62-1.46l7.77,2.67Z" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:487.258px 240.817px"/>
+<path class="animable" d="m516.26 236.69-7.26-1.22-1.49 15.53 8.26 1.71s0.98-13.11 0.49-16.02z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:511.954px 244.09px"/>
+<path class="animable" d="m549.79 238.63s-32.32-4.86-33.53-1.94-3.4 17.49-0.24 18.71 33 12.88 35.47 10.93 7.29-7 7.29-12.63-8.99-15.07-8.99-15.07z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:536.584px 251.153px"/>
+</g>
+<g class="animable" style="transform-origin:381.97px 424.875px">
+<polyline class="animable" points="70.17 472.84 257.88 376.91 509.21 376.91 693.77 472.84" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:381.97px 424.875px"/>
+</g>
+<g class="animable" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:380.78px 419.275px">
+<polygon class="animable" points="376.94 401.61 345.71 421.58 391.28 426.19 417.39 405.71" style="transform-origin:381.55px 413.9px"/>
+<polygon class="animable" points="402.03 408.78 368.24 432.33 412.78 436.94 441.97 413.9" style="transform-origin:405.105px 422.86px"/>
+<polygon class="animable" points="331.88 402.13 319.59 431.31 363.63 432.85 370.8 403.15" style="transform-origin:345.195px 417.49px"/>
+</g>
+<g class="animable" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:479.91px 386.18px">
+<polygon class="animable" points="446.97 393.38 495.3 391.99 524.79 420.59 468.62 422.27" fill="#c7c7c7" style="transform-origin:485.88px 407.13px"/>
+<polygon class="animable" points="497.33 398.22 482.03 399.17 496.01 414.28 512.45 413.14" fill="#c7c7c7" style="transform-origin:497.24px 406.25px"/>
+<polygon class="animable" points="457.59 397.14 476.33 396.61 494.47 417.4 473.33 418.14" fill="#263238" style="transform-origin:476.03px 407.375px"/>
+<polygon class="animable" points="468.62 422.27 455.84 370.59 435.03 350.09 446.97 393.38" fill="#878787" style="transform-origin:451.825px 386.18px"/>
+</g>
+<g class="animable" style="transform-origin:570.784px 340.854px">
+<path class="animable" d="m619.25 343.19 25.56 6.81a11.9 11.9 0 0 1 5.94 3.72h0a11.93 11.93 0 0 1 2.39 11.37l-22.28 74.22-32.52-16.58z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:626.009px 391.25px"/>
+<path class="animable" d="m562.29 317.75s-14.29 5.25-16.41 7.55-8.08 42.2-8.08 42.2-6 2.08-6 3.65v1.56s-6.51 2.86-8.85 4.69-3.13 2.08 0 5.21 7.81 8.85 13.28 10.68 6.63 2.06 6.63 2.06l65.36 32.65s20.49-94.39 20.75-96.48-30.74-17.45-33.6-19-33.08 5.23-33.08 5.23z" fill="#ff725e" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:574.93px 370.145px"/>
+<path class="animable" d="M564.11,316.19s-2.86,3.12-2.6,4.43,1,8.59,1,10.41V342l9.12-23.7-1.57-4.43Z" fill="#ff725e" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:566.562px 327.935px"/>
+<path class="animable" d="m597.19 305.51-6.84-3.06-22.35 18.43a48.56 48.56 0 0 0-4.17 13.8c-1.3 8.34-3.38 33.86-3.38 33.86s10.15-21.62 11.46-24 1.56-12.24 1.56-12.24 12.5-4.17 16.41-11.46 7.31-15.33 7.31-15.33z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:578.82px 335.495px"/>
+<path class="animable" d="m541.45 280.24s1 6.25 1.82 7.56 1.83 6.51 1.83 6.51-0.52 7.29 0.78 9.63 8.33 15.37 11.72 15.89 8.86-1.82 8.86-1.82l0.52 6.25s3.64 2.35 12.24-1.3 12.76-9.64 13.28-12-4.16-13.81-4.16-13.81v-6.75a15.31 15.31 0 0 0 3.12-11.72c-1-7 0.52-9.12-13.28-12.76s-30.48 2.08-34.38 4.68-2.35 9.64-2.35 9.64z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:566.843px 294.873px"/>
+<path class="animable" d="m573.23 279.46 2.08 1.82 0.78 5.73s2.61 1.83 3.39-0.78-0.52-7 2.6-8.59 6-2.09 6 3.38-2.87 14.33-2.87 14.33 2.61 3.13 3.13 1.82 4.16-22.66 4.16-22.66a53 53 0 0 0-8.59-4.17c-3.39-1.04-10.68 9.12-10.68 9.12z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:582.865px 283.878px"/>
+<path class="animable" d="m563.07 271.13s-6.51 2.86-7 6-4.17 8.07-9.64 8.07-4.95-6-8.07-6.25-8.86 0.78-8.86-8.6 6.51-9.89 9.12-11.72-0.79-2.08 3.38-7.29 7.82-3.39 11.46-3.39 2.61-4.95 9.12-5.47 8.86 1.57 9.9 2.87 6.51-0.26 10.42 2.34 4.16 4.95 6.25 7.3 6 0.78 5.47 6-2.09 7.55-1.3 8.85 2.34 1.31 1.56 3.65-3.65 4.43-3.39 5.21-6 1.3-9.38-1-2.6 1.82-8.85 1.82-10.97-5.01-10.19-8.39z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:562.297px 263.799px"/>
+<path class="animable" d="M579.48,286.23s.26-6,2.6-8.59,6.52.52,5.74,6.25-4.17,12-6.78,11.72" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:583.698px 286.168px"/>
+<path class="animable" d="m567 324.26s3.64 2.35 12.24-1.3 12.76-9.64 13.28-12c0.28-1.27-1-5.18-2.15-8.53-7.11 10.91-23.91 15.57-23.91 15.57z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:579.51px 313.717px"/>
+<polygon class="animable" points="566.46 318.01 578.44 308.37 573.75 314.88" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:572.45px 313.19px"/>
+<path class="animable" d="m551.35 305.51s6 3.64 13-3.65" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:557.85px 304.139px"/>
+<path class="animable" d="M562.1,291.86c.42,1.3.26,2.52-.35,2.72s-1.46-.7-1.88-2-.26-2.51.35-2.71S561.68,290.56,562.1,291.86Z" fill="#263238" style="transform-origin:560.985px 292.225px"/>
+<path class="animable" d="M550.12,291.86c.42,1.3.26,2.52-.35,2.72s-1.46-.7-1.88-2-.26-2.51.35-2.71S549.7,290.56,550.12,291.86Z" fill="#263238" style="transform-origin:549.005px 292.225px"/>
+<path class="animable" d="M557.6,287.54s4.95-2.61,7.55.52" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:561.375px 287.29px"/>
+<path class="animable" d="M545.1,287.27s3.64-1.3,4.17.27l2.08,4.42-1.3,11.46,6.77-1.3" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:550.96px 295.092px"/>
+<path class="animable" d="m597.19 305.51s-16.15 22.4-23.7 26.83l5.73 9.89s15.63-14.06 18.49-20.31l2.87-6.25z" fill="#ff725e" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:587.035px 323.87px"/>
+<path class="animable" d="M600.06,340.15l-5.21,45.32s-3.13,0-3.13,2.09a23.93,23.93,0,0,1-.52,4.42L538.59,402.4s-19-2.6-20.58-2.08-5.94,4.58-7.5,5.88-7.93,7.2-6.89,8.76,5.48-2.19,5.48-2.19-3.85,5.52-1.77,5,4.74-3.43,4.74-3.43l4.07-2.51s-4.9,6.46-3.34,6.2,4.43-2.34,4.43-2.34l1.82-1s-3.39,3.38-1.56,3.9,5.73-3.64,5.73-3.64l3.38-2.09a9.29,9.29,0,0,0,7.3.52c4.43-1.3,7.55-2.6,7.55-2.6s63,5.73,67.2,4.43,8.34-1.57,9.38-3.91,9.9-78.14,10.94-79.71-16.41-8.33-16.41-8.33" fill="#ff725e" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:566.26px 370.948px"/>
+<path class="animable" d="m563.6 397.45-25 4.95 11.67-2.31c1.87 1.84 4 5.34 4.3 11.8 3.8 0.32 8.16 0.69 12.73 1.06 2.8-9.51-2.89-14.81-3.7-15.5z" fill="#ff725e" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:553.334px 405.2px"/>
+<path class="animable" d="m593 392.89s13.62 4.7 18 8.77-4.54-7.2-10.49-10.18" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:602.584px 397.008px"/>
+<path class="animable" d="m550.26 400.09-11.67 2.31s-19-2.6-20.58-2.08-5.94 4.58-7.5 5.88-7.93 7.2-6.89 8.76 5.48-2.19 5.48-2.19-3.85 5.52-1.77 5 4.74-3.43 4.74-3.43l4.07-2.51s-4.9 6.46-3.34 6.2 4.43-2.34 4.43-2.34l1.82-1s-3.39 3.38-1.56 3.9 5.73-3.64 5.73-3.64l3.38-2.09a9.29 9.29 0 0 0 7.3 0.52c4.43-1.3 7.55-2.6 7.55-2.6s5.39 0.49 13.11 1.15c-0.28-6.5-2.43-10-4.3-11.84z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:529.033px 409.363px"/>
+<path class="animable" d="m519.05 414.65s4.61-4.69 6.49-5.32" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:522.295px 411.99px"/>
+<path class="animable" d="m516.14 411.83s4.7-5.16 6.58-5.79" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:519.43px 408.935px"/>
+<path class="animable" d="m509.1 412.77s7.36-8.45 10-9.55" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:514.1px 407.995px"/>
+<path class="animable" d="M522,380.1l-5.94,7.46s-18.12.61-21.17,1.37-7,9.74-7,11.57,1.83,1.68,2.74.46,3.65-6.85,3.65-6.85-3,8.83-3,9.74,2,0,2,0-.15,1.83.91,2.29,3.5-1.07,3.5-1.07.61,1.22,2.44.15,6.24-8.22,7.46-9,4.72-.15,4.72-.15-3.5,1.67-4.87,4.56-1.07,3.81-.15,3.51,4-3.35,5.78-4.27,6.4-.61,7.77-1.22,13.71-7.31,13.71-7.31-.16-6.85-4.27-9.59A11,11,0,0,0,522,380.1Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:511.22px 393.057px"/>
+<path class="animable" d="m530.26 381.77a11 11 0 0 0-8.26-1.67l-3.77 4.73a10.65 10.65 0 0 1 9.79 10l6.47-3.5s-0.12-6.82-4.23-9.56z" fill="#ff725e" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:526.36px 387.362px"/>
+<path class="animable" d="M516.1,387.56s4.57-.31,5.94,3" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:519.07px 389.056px"/>
+<line class="animable" x1="493.26" x2="498.89" y1="403.85" y2="391.67" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:496.075px 397.76px"/>
+<line class="animable" x1="497.67" x2="502.85" y1="405.07" y2="392.43" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:500.26px 398.75px"/>
+<line class="animable" x1="494.32" x2="495.85" y1="394.11" y2="391.21" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:495.085px 392.66px"/>
+<path class="animable" d="M542.87,395.35l1-12.36s-.61-5.94-.61-11.27,6.39-39.44,6.39-39.44" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:546.26px 363.815px"/>
+<path class="animable" d="M558.89,372.94s-.15,8.53-.61,13.1a59.22,59.22,0,0,1-2.43,10.5" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:557.37px 384.74px"/>
+</g>
+<g class="animable" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:294.155px 385.165px">
+<polygon class="animable" points="328.81 392.75 276.24 391.28 246.94 421.37 306.03 423.13" fill="#c7c7c7" style="transform-origin:287.875px 407.205px"/>
+<polygon class="animable" points="276.88 396.09 290.45 396.51 277.09 413.27 262.03 412.42" fill="#c7c7c7" style="transform-origin:276.24px 404.68px"/>
+<polygon class="animable" points="317.63 396.69 295.97 396.09 280.48 417.51 301.07 418.79" fill="#263238" style="transform-origin:299.055px 407.44px"/>
+<polygon class="animable" points="306.03 423.13 319.47 368.77 341.37 347.2 328.81 392.75" fill="#878787" style="transform-origin:323.7px 385.165px"/>
+</g>
+<g class="animable" style="transform-origin:193.714px 350.574px">
+<path class="animable" d="m293.86 365.33s4.67 4 3.93 5.2-1.7 0.64-3.08 0.21-6.48-3.82-6.48-3.82 4.46-2.44 5.63-1.59z" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:293.05px 368.202px"/>
+<path class="animable" d="M288.23,366.92s8.07,6.05,7.22,6.9-1.7.43-4.14-.21-6.26-4-6.26-4Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:290.281px 370.609px"/>
+<path class="animable" d="M285.16,371s4.56,3.93,4.45,4.36-.63,1.27-2.33.95-5.2-3-5.2-3Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:285.846px 373.691px"/>
+<path class="animable" d="M265.47,373.38s13.32-12.51,13.74-12.72a101.85,101.85,0,0,1,12.42-1.7c2.55,0,9.13,5.2,8.28,5.73s-5.62-.74-5.62-.74h-2.76s-5.95,6.79-11.36,10A96,96,0,0,1,266.68,380Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:282.728px 369.48px"/>
+<path class="animable" d="M277.44,365.66a1.05,1.05,0,0,1-.11-2.1l28.8-2.66a.53.53,0,0,1,.58.47.52.52,0,0,1-.46.58l-28.69,3.71Z" fill="#263238" style="transform-origin:291.525px 363.279px"/>
+<path class="animable" d="M277.3,367.77s10.4-4.57,12-5.1,11,1.49,10.61,2-.1,1.38-2.12,1.91-6.69.21-6.69.21-5.84,5.42-8.92,7.86-5.52,4-8.6,4.35a35.2,35.2,0,0,1-5.73.11" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:283.886px 370.88px"/>
+<polygon class="animable" points="257.71 374.62 265.46 373.38 267.02 383.61 258.95 385.16" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:262.365px 379.27px"/>
+<path class="animable" d="m170.86 323.05s11.82 2.27 16.79 5.68 16.18 27.84 18 31.87 5.92 13.09 5.92 13.09 3.41-1.86 5-0.31a7 7 0 0 1 1.86 3.41s36.8-5 39.28-2.17 1.86 7.44 1.24 10.54-0.31 3.1-4 4.65-40.28 11.7-50.82 13.25-9.94-8-9.94-8 2.81-23.54-9.65-39.06-15.88-21.84-17.54-26.88 3.86-6.07 3.86-6.07z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:213.097px 363.14px"/>
+<path class="animable" d="m218.43 376.79s-7.16 10.88-9.55 13.53" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:213.655px 383.555px"/>
+<line class="animable" x1="211.27" x2="206.22" y1="375.46" y2="379.97" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:208.745px 377.715px"/>
+<path class="animable" d="m116.94 354.63-26.89 7.2a12.53 12.53 0 0 0-6.25 3.91h0a12.61 12.61 0 0 0-2.52 12l23.63 76.42 32.59-17z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:109.107px 404.395px"/>
+<path class="animable" d="m182.18 333.26s1.65 3.32 11 12.7c8.7 8.7 12 19.22 10 31.49-1.59 9.74-1.44 20-3.48 29.65l-62.2 30-21.86-96.43s18.5-11.32 30.37-15.19 21-3.31 24.85-2.48 6.62 1.65 6.62 1.65" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:159.693px 379.749px"/>
+<path class="animable" d="M177.72,351.67s13.34,13,14.27,20.47-.31,26-.31,26" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:185.028px 374.905px"/>
+<path class="animable" d="m174.45 347.9 1.65-17.12-9.1-1.66a11.32 11.32 0 0 0-1.1 9.39c1.64 5.49 8.55 9.39 8.55 9.39z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:170.723px 338.51px"/>
+<polygon class="animable" points="176.1 330.78 183.84 342.1 175.28 340.99" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:179.56px 336.44px"/>
+<path class="animable" d="M181.9,262s2.49,5,2.76,8.83-1.1,5.8,1.11,8.29,10.21,1.93,8.56,5.52a20.9,20.9,0,0,1-4.42,6.07s-1.66,8.84-2.49,14.64-.27,6.35-3.31,6.9-8.28-.28-8.28-.28a43.51,43.51,0,0,0-5.8,14.08,34.79,34.79,0,0,0-.28,13.81l-15.18-8.28s-5.8,1.93-8.84-9.94,5.8-46.94,11.32-54.12S181.9,262,181.9,262Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:169.831px 300.847px"/>
+<path class="animable" d="m158.71 277.77s1.93 8.28 0.83 9.93-5.52-4.14-5.52-4.14 2.76-9.38 4.69-5.79z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:156.949px 282.474px"/>
+<polygon class="animable" points="154.57 331.61 168.1 334.37 174.45 347.89 167.54 344.03 164.23 355.9 142.97 332.71" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:158.71px 343.755px"/>
+<polygon class="animable" points="167.54 344.03 168.1 334.37 174.45 347.89" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:170.995px 341.13px"/>
+<path class="animable" d="m150.77 300.08c2 3.74 6.21 1.24 6.21 1.24l11.12 6.82-8.84-3.32-12.42 9.67s0.21-21.55 3.93-14.41z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:157.47px 306.56px"/>
+<path class="animable" d="m186.6 296.26s-5.8 1.66-7.46-1.1" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:182.87px 295.957px"/>
+<path class="animable" d="m182.12 278.61c0.51 1.67 0.33 3.21-0.4 3.44s-1.73-1-2.24-2.64-0.33-3.22 0.4-3.44 1.73 0.96 2.24 2.64z" fill="#263238" style="transform-origin:180.8px 279.011px"/>
+<path class="animable" d="m176.38 273.9s2.48-3.87 6.07-1.66" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:179.415px 272.729px"/>
+<path class="animable" d="m185.49 254.3s0.28 2.21-3.59 7.73-19.05 12.42-23.19 15.74-9.39 31.47-8.56 38.93 1.66 10.21 5.8 10.21a9.88 9.88 0 0 0 6.9-3.31s-1.38 12.42-7.73 14.91-14.36-2.49-21.26-1.93-13.53 6.62-16.84 9.11-4.7 4.69-11.32 0.82-3.87-9.66-3.87-9.66 5.8 3 9.11-4.14 5.8-1.93 2.76-19-3.86-27.06 6.36-45.83 22.64-20.71 22.64-20.71 14.63-1.98 42.79 7.13z" fill="#263238" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:143.379px 297.8px"/>
+<path class="animable" d="M220.56,412.78S246.23,402,248.17,402s19.05,8.28,19.05,8.28l1.1,1.94s1.11.55.28,2.21-6.35,1.38-6.35,1.38,4.42.82,2.48,1.93-16.56,0-16.56,0a46.14,46.14,0,0,1-12.7,4.69c-6.35,1.11-16.29-.55-16.29-.55Z" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:244.044px 412.406px"/>
+<line class="animable" x1="268.32" x2="251.4" y1="412.23" y2="404.87" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:259.86px 408.55px"/>
+<line class="animable" x1="268.6" x2="250.74" y1="414.44" y2="408.36" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:259.67px 411.4px"/>
+<path class="animable" d="M262.25,415.82s-7-1.79-8.21-2.08a13.31,13.31,0,0,0-3.78-.18" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:256.255px 414.66px"/>
+<polygon class="animable" points="211.17 411.95 220.56 412.78 219.73 423.82 210.62 424.38" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:215.59px 418.165px"/>
+<path class="animable" d="M152.36,341s-11.05-11.32-17.67-11.87-21.26,3.31-21.26,20.71,8.56,45.28,9.66,63.23,9.11,28.16,11.6,27.88S167.82,439,186,433.49s23.2-5.8,24.58-9.11,1.93-9.39.55-12.43-54.12-2.21-55.22-2.21-8.56-51.35-8.56-51.35" fill="#fff" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:162.68px 385.018px"/>
+<path class="animable" d="m153.19 410s-11.88 3.59-17.67 10.77" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:144.355px 415.385px"/>
+<path class="animable" d="m151.81 407.53s-11.88 1.94-16.85 5.53" fill="none" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:143.385px 410.295px"/>
+</g>
+<g class="animable" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:555.12px 433.04px">
+<path class="animable" d="M565.76,424.05s7.44-1.76,7.42,3.54-1.89,12.73-4.66,14.15-7.49-1.42-7.49-1.42l-.06-3.18s6.15,2.83,7.36-1.41,1.66-8.14-4.57-7.08" fill="#ff725e" style="transform-origin:567.075px 432.954px"/>
+<path class="animable" d="m566.78 419.28-2.39 28.29c0 2.22-5.58 4-12.47 4s-12.46-1.79-12.46-4l-2.39-28.29z" fill="#ff725e" style="transform-origin:551.925px 435.425px"/>
+<ellipse class="animable" cx="551.92" cy="419.28" rx="14.86" ry="4.77" fill="#fff" style="transform-origin:551.92px 419.28px"/>
+<path class="animable" d="M546.92,422.46a39.12,39.12,0,0,0,5,.31c4.91,0,9.16-.83,11.3-2" fill="#fff" style="transform-origin:555.07px 421.77px"/>
+<path class="animable" d="m540.17 420.45a10.1 10.1 0 0 0 3 1.29" fill="#fff" style="transform-origin:541.67px 421.095px"/>
+</g>
+<g class="animable" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" style="transform-origin:223.105px 439.185px">
+<path class="animable" d="M213,430.1s-7.21-1.78-7.63,3.59.81,12.87,3.43,14.3,7.53-1.44,7.53-1.44l.32-3.22s-6.31,2.87-7.17-1.42-1-8.23,5.11-7.16" fill="#ff725e" style="transform-origin:210.97px 439.103px"/>
+<path class="animable" d="m211.21 425.43 2.39 28.29c0 2.22 5.58 4 12.46 4s12.47-1.79 12.47-4l2.39-28.29z" fill="#ff725e" style="transform-origin:226.065px 441.575px"/>
+<path class="animable" d="m240.92 425.43c0 2.64-6.65 4.77-14.86 4.77s-14.85-2.13-14.85-4.77 6.65-4.78 14.85-4.78 14.86 2.14 14.86 4.78z" fill="#fff" style="transform-origin:226.065px 425.425px"/>
+<path class="animable" d="M231.06,428.61a38.88,38.88,0,0,1-5,.31c-4.9,0-9.16-.83-11.29-2" fill="#fff" style="transform-origin:222.915px 427.92px"/>
+<path class="animable" d="m237.82 426.6a10.22 10.22 0 0 1-3 1.29" fill="#fff" style="transform-origin:236.32px 427.245px"/>
+</g>
+</svg>

@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
     return (
-        <footer className="bg-gray-100 dark:bg-slate-800">
+        <footer className="bg-gray-100 dark:bg-gray-800">
             <div className="max-w-5xl px-4 py-10 mx-auto sm:px-5 lg:px-6">
                 <div className="flex justify-center text-slate-800 dark:text-slate-300">
                     <img
@@ -30,7 +30,7 @@ const Footer = () => {
 
                         <li>
                             <a
-                                className="dark:text-white  text-gray-700 transition  dark:hover:text-gray-400 hover:text-gray-700/75"
+                                className="dark:text-white text-gray-700 transition  dark:hover:text-gray-400 hover:text-gray-700/75"
                                 href="/"
                             >
                                 Careers
